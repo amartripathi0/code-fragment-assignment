@@ -33,7 +33,7 @@ I've created a seperate componet named **BurnStats**.
 
 - Passing data from one component to another via props help us to get the overall structure of what is happeing with the components and we can always manage ,pass and import those things which are  necessory for a particular component.
 
-- The overall code fragmentation reduced the number of code lines from **200** to **54** which made overall code more readable, reusable and maintainable.
+- The overall code fragmentation reduced the number of code lines in page.tsx return part from **200** to **54** which made overall code more readable, reusable and maintainable.
 
 
 
